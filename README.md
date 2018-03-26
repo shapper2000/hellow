@@ -1,2 +1,0 @@
-# hellow
-eg veit ikki
